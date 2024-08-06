@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello, I'm Anubhav Garikapadu 👋
 
-<!--
-**anubhav0107/anubhav0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with a passion for building efficient, scalable systems and exploring machine learning. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Master's in Computer Science from Rutgers University
+- 💻 3+ years of professional experience in software development
+- 🌟 Specializing in Java, Python, and full-stack development
+- 🤖 Enthusiast in Machine Learning and Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Project
+I'm currently working on building a Redis-like in-memory data store from scratch in Java. This project showcases:
+- Multi-threaded TCP server for handling concurrent requests
+- Implementation of RESP protocol and core Redis commands
+- RDB file handling for persistence
+- Master-Slave replication
+
+## 🛠 Tech Stack
+- Languages: Java, Python, JavaScript, C/C++
+- Frameworks: Spring Boot, ReactJS, Flask
+- Tools: Docker, Kubernetes, AWS, Jenkins
+- Databases: SQL, PostgreSQL, Redis
+
+## 🌱 I'm currently learning
+- Advanced topics in Distributed Systems
+- Deep dive into Reinforcement Learning
+
+## 📫 How to reach me
+- Email: anubhav.garikapadu@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anubhavgarikapadu/
+
+Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
